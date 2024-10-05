@@ -6,36 +6,28 @@ section.apresentacao {
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  background: linear-gradient(90deg, var(--degrade-claro));
-  background: -webkit-linear-gradient(90deg, var(--degrade-claro));
+  background-image: url(../../../../files/images/presentation-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: 80vh;
+}
+section.apresentacao .section {
+  width: 100%;
+  max-width: 1300px;
+  margin: auto;
 }
 section.apresentacao .texto {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding: 80px 60px 60px 60px;
+  padding: 80px 25px 25px 60px;
   width: 50%;
 }
-section.apresentacao .texto .tag {
-  display: flex;
-  align-items: center;
-}
-section.apresentacao .texto .tag img {
-  width: 100%;
-  max-width: 15px;
-  margin: 0 10px 0 0;
-}
-section.apresentacao .texto .tag h3 {
-  font-family: var(--light);
-  font-size: var(--f2);
-  color: var(--cor-verde);
-}
-section.apresentacao .texto .tag h3 span {
-  font-family: var(--semibold);
-}
 section.apresentacao .texto h1 {
-  font-family: var(--semibold);
-  font-size: var(--f6);
+  font-family: var(--bold);
+  font-size: 2.2rem;
   color: var(--cor-preto);
   line-height: 1.3;
   margin: 15px 0 0 0;

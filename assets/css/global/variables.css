@@ -1,24 +1,24 @@
 /* Essas são as variáveis para usar no site e ficar mais escalável a edição das coisas */
 :root {
   --cor-branco: #FFFFFF;
-  --cor-preto: #323232;
+  --cor-preto: #121d39;
   --cor-gelo: #EDF6FC;
 
-  --cor-ciano: #1c98ed;
+  --cor-ciano: #00aeef;
   --cor-verde: #009B3A;
   --cor-musgo: #8BD42E;
   --cor-laranja: #F3B51A;
   --cor-vermelho: #FF3C76;
 
-  --cor-escuro-1: #1A2533;
+  --cor-escuro-1: #121d39;
   --cor-escuro-2: #223142;
   --cor-escuro-3: #2F4258;
 
   --degrade-claro: #EDF6FC, #FFFFFF;
 
-  --light: 'Mont-Light';
+  /* --light: 'Mont-Light';
   --semibold: 'Mont-SemiBold';
-  --bold: 'Mont-Bold';
+  --bold: 'Mont-Bold'; */
 
   --f1: clamp(0.6rem, 1vw, 0.8rem);
   --f2: clamp(0.8rem, 1vw, 1.0rem);

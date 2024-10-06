@@ -3,20 +3,17 @@
   font-family: 'Mont-Bold';
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
-  src: url('../../files/fonts/Mont-Bold.woff') format('woff');
+  src: url('../../files/fonts/Poppins-Bold.ttf') format('ttf');
 }
 @font-face {
   font-family: 'Mont-SemiBold';
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
-  src: url('../../files/fonts/Mont-SemiBold.woff') format('woff');
+  src: url('../../files/fonts/Poppins-SemiBold.ttf') format('ttf');
 }
 @font-face {
   font-family: 'Mont-Light';
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
-  src: url('../../files/fonts/Mont-Light.woff') format('woff');
+  src: url('../../files/fonts/Poppins-Regular.ttf') format('ttf');
 }
